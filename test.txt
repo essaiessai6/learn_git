@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
 Hello abc
 ajout before stash apply
-=======
 Hello abc after stash
->>>>>>> Stashed changes
