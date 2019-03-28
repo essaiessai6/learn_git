@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello master!
-=======
 Hello The abc!
->>>>>>> abc
+
